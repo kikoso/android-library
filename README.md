@@ -2,7 +2,7 @@
  ~ SPDX-FileCopyrightText: 2016-2024 Nextcloud GmbH and Nextcloud contributors
  ~ SPDX-License-Identifier: MIT
 -->
-# [Nextcloud](https://nextcloud.com) Android Library v2 [![Build Status](https://cloud.drone.io/api/badges/nextcloud/android-library/status.svg)](https://cloud.drone.io/nextcloud/android-library) [![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/android-library)](https://api.reuse.software/info/github.com/nextcloud/android-library) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/gh/nextcloud/android-library)](https://app.codacy.com/gh/nextcloud/android-library/dashboard)
+# [Nextcloud](https://nextcloud.com) Android Library v2 [![Build Status](https://drone.nextcloud.com/api/badges/nextcloud/android-library/status.svg)](https://drone.nextcloud.com/nextcloud/android-library) [![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/android-library)](https://api.reuse.software/info/github.com/nextcloud/android-library) [![Codacy Badge](https://img.shields.io/codacy/grade/d9f94f04e0f447a6b21c0ae08f6f7594)](https://app.codacy.com/gh/nextcloud/android-library/dashboard)
 
 ## Introduction
 Using Nextcloud Android library it will be the easiest way to communicate with Nextcloud servers.
@@ -128,6 +128,7 @@ configurations.all {
     exclude group: "log4j", module: "log4j"
 }
 ```
+
 
 
 
